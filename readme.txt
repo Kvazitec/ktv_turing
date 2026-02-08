@@ -1,5 +1,5 @@
 KTV_Turing = Turing machine emulator powered by Python3
-This emulator gets the CSV file with program for Turng machine.
+This emulator gets the CSV file with program for Turing machine.
 Format of CSV file:
 1) A1 cell is always void
 2) In first line lists the symbols, in first column lists states
