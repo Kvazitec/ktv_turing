@@ -56,10 +56,10 @@ If the line corresponding to any parameter turns out to be empty, the emulator w
 python3 ktv_turing.py #without config file
 python3 ktv_turing.py example.ktc #with config file
 ```
-**Windows:**
-```cmd
-python ktv_turing.py ::without config file
-python ktv_turing.py example.ktc ::with config file
+**Windows PowerShell:**
+```PowerShell
+python ktv_turing.py #without config file
+python ktv_turing.py example.ktc #with config file
 ```
 
 ### Example step vizualisation:
