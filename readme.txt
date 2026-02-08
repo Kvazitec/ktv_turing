@@ -45,7 +45,7 @@ Example of the starting emulator:
 Linux:
     python3 ktv_turing.py #without config file
     python3 ktv_turing.py example.ktc #with config file
-Windows:
+Windows PowerShell:
     python ktv_turing.py #without config file
     python ktv_turing.py example.ktc #with config file
 
