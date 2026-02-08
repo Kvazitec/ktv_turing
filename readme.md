@@ -58,8 +58,8 @@ python3 ktv_turing.py example.ktc #with config file
 ```
 **Windows:**
 ```cmd
-python ktv_turing.py #without config file
-python ktv_turing.py example.ktc #with config file
+python ktv_turing.py ::without config file
+python ktv_turing.py example.ktc ::with config file
 ```
 
 ### Example step vizualisation:
